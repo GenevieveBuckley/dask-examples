@@ -12,6 +12,7 @@ dependencies:
   - numpy
   - pandas
   - pyarrow==0.10.0
+  - python-graphviz
   - scikit-learn=0.20
   - matplotlib
   - nbserverproxy
@@ -21,8 +22,6 @@ dependencies:
   - bottleneck
   - py-xgboost
   - pip:
-    - graphviz
-    - python-graphviz
     - dask_xgboost
     - seaborn
     - mimesis
