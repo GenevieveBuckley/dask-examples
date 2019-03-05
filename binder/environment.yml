@@ -4,7 +4,7 @@ dependencies:
   - python=3
   - bokeh=0.13
   - dask=0.20
-  - dask-image=0.20
+  - dask-image=0.2.0
   - dask-ml=0.10.0
   - distributed=1.24
   - jupyterlab=0.35.1
